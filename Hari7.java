@@ -4,14 +4,14 @@ public class Hari7 {
     public static void main(String[] args) {
         int nilai = 50;
         
-        if (nilai >= 100){
-            System.out.println("Anda dapat nilai A");
-        }else if (nilai >= 90){
-            System.out.println("Anda dapat nilai B");
+        if (nilai >= 90){
+            System.out.println("Anda mendapatkan nilai A");
+        }else if (nilai >= 80){
+            System.out.println("Anda mendapatkan nilai B");
         }else if (nilai >= 70){
-            System.out.println("Anda dapat nilai C");
+            System.out.println("Anda mendapatkan nilai C");
         }else{
-            System.out.println("Anda dapat nilai D");
+            System.out.println("Anda mendapatkan nilai D");
         }
     }
 }
