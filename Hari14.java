@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Hari14 {
     public static void main(String[] args) {
+
+        //belajar percabangan menggunakan switch-case
         Scanner scanner = new Scanner(System.in);
         System.out.print("Masukkan nomor pilihan anda : ");
         
