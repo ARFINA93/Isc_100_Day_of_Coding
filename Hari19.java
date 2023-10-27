@@ -20,6 +20,8 @@ public class Hari19 {
             hasil = "B";
         }else if(nilai >= 70){
             hasil = "C";
+        }else if(nilai >= 50){
+            hasil = "D";
         }else{
             hasil = "E";
         }
